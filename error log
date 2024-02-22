@@ -1,0 +1,7 @@
+Error in DetailsScreen(Clone).DetailsScreen.OnPrefabInit at (1870.0, 176.0, 0.0)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Notepad.DetailsScreen_OnPrefabInit_Patch.Postfix () [0x00057] in <e62aea703c29416a88c62047ceed6493>:0 
+  at (wrapper dynamic-method) DetailsScreen.DetailsScreen.OnPrefabInit_Patch3(DetailsScreen)
+  at KMonoBehaviour.InitializeComponent () [0x00068] in <1e2b7d5db95c4d6b84eabb7ca0270927>:0 
+Build: U50-587362-SD
